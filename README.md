@@ -4,3 +4,7 @@ Usage:
 
     roles:
     - { role: jgoodall.zeromq }
+
+Uninstall:
+
+    sudo apt-get remove zeromq -y

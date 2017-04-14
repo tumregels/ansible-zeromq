@@ -1,5 +1,5 @@
 ---
 
-zeromq_version: 4.0.5
+zeromq_version: 4.1.4
 zeromq_download_url: http://download.zeromq.org/zeromq-{{ zeromq_version }}.tar.gz
 zeromq_prefix: /usr/local
